@@ -1,0 +1,6 @@
+#Age Calculator
+
+year1 =int(input("when do you born?"))
+print ("you are",2026-year1,"years old")
+
+#end of the programe
